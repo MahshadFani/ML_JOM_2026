@@ -1,5 +1,5 @@
 # ML_JOM_2026
-# DNN Surrogate Model for UHTS Prediction of Fe80Cr16Ni4 Nanocrystals
+ DNN Surrogate Model for UHTS Prediction of Fe80Cr16Ni4 Nanocrystals
 
 This repository contains the machine learning code associated with the paper:
 "Effects of grain morphology and nanovoid characteristics on the tensile 
